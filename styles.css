@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5em;
+    font-size: 1rem;
+}
+html {
+    font-size: 20px;
+}
+body {
+    background-color: black;
+    color: #ddd;
+    font-family: sans-serif;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+h1 {
+    font-size: 2rem;
+
+}
+.content {
+    background-color: #333;
+    padding: 0 0.5rem;
+}
