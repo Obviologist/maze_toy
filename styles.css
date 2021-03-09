@@ -24,3 +24,18 @@ h1 {
     background-color: #333;
     padding: 0 0.5rem;
 }
+#maze-holder{
+    background-color: teal;
+    width: 256px;
+    height: 256px;
+    font-size: 0;
+}
+.on, .off {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: violet;
+}
+.off {
+    background-color: tomato;
+}
